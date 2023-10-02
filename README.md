@@ -1,5 +1,6 @@
-# Pizza-And-Code-October-2023
-Coding questions for Pizza &amp; Code event at Howard University
+# Pizza & Code 
+## October 6, 2023
+## Coding questions for Pizza &amp; Code event at Howard University
 
 ## Question 1: Create a Python program that calculates the total price of a pizza order based on user input. The user should be able to specify the size of the pizza (small, medium, or large) and the number of toppings. Each topping costs a fixed amount. Display the total price to the user.
 
