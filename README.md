@@ -1,4 +1,4 @@
-# Pizza & Code \
+# Pizza & Code 
 October 6, 2023 \
 Coding questions for Pizza &amp; Code event at Howard University 
 
